@@ -1,0 +1,6 @@
+renal\s\w+, started with 'renal'
+cardiac\s\w+, started with 'cardiac'
+\w*ly\b, ending with 'ly'
+\S*\d+\S*, match any word that contains numbers
+(\d+).?(\d*)\s*(mg|ml|g), match medication metrics
+

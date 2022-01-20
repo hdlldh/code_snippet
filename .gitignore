@@ -4,6 +4,7 @@
 !*.ipynb
 !*.md
 !*.csv
+!*.txt
 !*.png
 !*/
 .ipynb_checkpoints/
